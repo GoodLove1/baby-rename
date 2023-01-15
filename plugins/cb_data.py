@@ -18,13 +18,13 @@ import os
 
 log_channel = int(os.environ.get("LOG_CHANNEL", ""))
 
-API_ID = int(os.environ.get("API_ID", ""))
+API_ID = int(os.environ.get("API_ID", "12635510"))
 
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "da59e4e56ec4fe35af603bd30208ecc5")
 
 STRING = os.environ.get("STRING", "")
 
-ADMIN = os.environ.get("ADMIN", "")
+ADMIN = os.environ.get("ADMIN", "1130215726")
 
 app = Client("test", api_id=API_ID, api_hash=API_HASH, session_string=STRING)
 
