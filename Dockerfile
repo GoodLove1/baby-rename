@@ -10,7 +10,7 @@ RUN apt install git python3-pip ffmpeg -y
 
 
 
-RUN pip3 install -r requirements.txt
+RUN /bin/start -c pip3 install -r requirements.txt
 
 
 
