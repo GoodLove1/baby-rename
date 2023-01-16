@@ -10,7 +10,7 @@ API_ID = int(os.environ.get("API_ID", "12635510"))
 
 API_HASH = os.environ.get("API_HASH", "da59e4e56ec4fe35af603bd30208ecc5")
 
-STRING = os.environ.get("STRING", "")
+STRING = os.environ.get("STRING", "BQCFpqf3uF8UQSCZTF_Wf-anrTxQsog8DCPwIIkWQJhoyqMBUTcYq6cmGnwt5SDSwvkxcc10vU3m8OFAe684XfbN7cAtHyizB4_dtRz8Kjc_EHJKxb-uWSTL0zY-FJr3BMMfK5KM-jq_Tt8r5r04N8A0a6et9gH2aos6xtF89BTtjIx3ppjGViMFtYbOmn2_JFMCq-qfqg7aOmMspG4UXr1LfFW8C6jHxCznqdu_YQ9-M8Kdq5bRHAf7emvi3uXrJFGMSUq_J-q5CWA6zPgmIED3OjHLAevJOEnTSbpj1bb45cvTrdM-m2NZXoCaFSXA5is_Hq_4zhYyA0MJDBFeAqAAAAAENduS4A")
 
 
 
